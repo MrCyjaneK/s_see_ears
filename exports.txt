@@ -1,0 +1,14 @@
+_SPACESEE_ears_load
+_SPACESEE_ears_loadError
+_SPACESEE_ears_unload
+_SPACESEE_ears_isHeavy
+_SPACESEE_ears_assetCount
+_SPACESEE_ears_asset
+_SPACESEE_ears_version
+_SPACESEE_ears_extension
+_SPACESEE_ears_filetypes
+_SPACESEE_ears_maxInputSize
+_SPACESEE_ears_analyze
+_SPACESEE_ears_progress
+_SPACESEE_ears_progressString
+_SPACESEE_ears_free
